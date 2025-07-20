@@ -59,9 +59,8 @@
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://linkedin.com/in/andrewromitti)  
-- [Twitter](https://twitter.com/andrewromitti)  
-- [Email](mailto:andrew@example.com)  
+- [LinkedIn]([https://linkedin.com/in/andrewromitti](https://www.linkedin.com/in/aromitti/))  
+- [Email](mailto:aromitti3@gatech.edu)  
 
 ---
 
