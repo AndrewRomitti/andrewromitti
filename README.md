@@ -3,7 +3,7 @@
 <p align="center">
   Sophomore @ Georgia Tech studying Computer Science.<br>
   Passionate about AI/ML, full-stack dev, and building cool projects.<br>
-  Thanks for stopping by! 😊
+  Thanks for stopping by!
 </p>
 
 ---
