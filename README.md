@@ -11,7 +11,7 @@
 ## 🚀 What I'm Working On
 
 - **Interview Prep Repo** — Daily DSA grind, system design, and behavioral prep with public accountability
-- **Genfolio** - AI powered portfolio generator built with Next.js, FastAPI, and Supabase (Almost done!)
+- **Genfolio** - AI powered portfolio generator built with Next.js, FastAPI, and Supabase (<a href="genfolio.dev">genfolio.dev</a>)
 - **BulkBuddy** — Meal Prep app built with Next.js (Make an account here: <a href="bulkbuddy.tech">bulkbuddy.tech</a>)
 ---
 
